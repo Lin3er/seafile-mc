@@ -1,2 +1,3 @@
 onlyoffice/documentserver:latest
 seafileltd/seafile-mc:12.0-latest
+--platform=linux/amd64
